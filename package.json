@@ -22,5 +22,8 @@
   "homepage": "https://github.com/o7lili/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.4.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.4.2"
   }
 }
